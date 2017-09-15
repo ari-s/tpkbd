@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name KX14)(type KiCad)(uri "$(KIPRJMOD)/tx14.pretty")(options "")(descr ""))
+  (lib (name PLCC4)(type Legacy)(uri "$(KIPRJMOD)/PLCC4.mod")(options "")(descr ""))
+  (lib (name edge-12-anglo)(type Legacy)(uri "$(KIPRJMOD)/edge-12-anglo.mod")(options "")(descr ""))
 )
